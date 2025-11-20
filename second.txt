@@ -1,2 +1,2 @@
-Secind file
+Second file
 Hello from new-branch!
